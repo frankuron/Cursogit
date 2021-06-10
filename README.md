@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # MAIN
-=======
 negro
->>>>>>> negro
